@@ -12,7 +12,5 @@ I am a BCA student
 ![](https://nirzak-streak-stats.vercel.app/?user=harshmaheta1312-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmaheta1312-sys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=harshmaheta1312-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
